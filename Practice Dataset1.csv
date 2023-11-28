@@ -1,0 +1,10 @@
+Bug ID,Summary,Assignee,Status,Resolution,Updated,Reporter,Priority
+1860172,Feature Callout cannot be dismissed when shown with Set Firefox Default Prompt,shughes@mozilla.com,RESOLVED,FIXED,2023-11-02 22:21,pdahiya@mozilla.com,P1
+1860730,Remove unsupported unit field in metrics definition,jrediger@mozilla.com,RESOLVED,FIXED,2023-10-26 5:35,jrediger@mozilla.com,P1
+1860892,Remove Firefox View CFR message,halemu@mozilla.com,RESOLVED,FIXED,2023-11-08 13:20,pdahiya@mozilla.com,P1
+1858259,[Easy Setup Feature] Fix easy setup checkbox misalignment and spacing on responsive mode <800px,nsauermann@mozilla.com,VERIFIED,FIXED,2023-11-01 5:22,nsauermann@mozilla.com,P1
+1859583,[Easy Setup Feature] - Clean up test cases and unused logic,nsauermann@mozilla.com,RESOLVED,FIXED,2023-11-10 7:31,nsauermann@mozilla.com,P1
+1859928,Update anchor alignment fix of  MILESTONE_MESSAGE_87 message on RS,pdahiya@mozilla.com,VERIFIED,FIXED,2023-11-02 5:48,pdahiya@mozilla.com,P1
+1855031,"[Feature] Easy Set Up as Default Experience on Mac, Windows, Linux",nsauermann@mozilla.com,VERIFIED,FIXED,2023-11-08 12:49,nsauermann@mozilla.com,P1
+1855041,[Survey] Adjust spacing of elements and padding,emcminn@mozilla.com,RESOLVED,FIXED,2023-09-28 12:17,shughes@mozilla.com,P1
+1855096,Add UTM tags to the web links in the core sidebar experience,jhirsch@mozilla.com,VERIFIED,FIXED,2023-10-12 1:13,asafko@mozilla.com,P1
